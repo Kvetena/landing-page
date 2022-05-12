@@ -5,6 +5,8 @@ body {
     margin: 0px;
 }
 
+/* Header Styles start here */
+
 .header {
     display: flex;
     justify-content: space-around;
@@ -29,3 +31,52 @@ ul {
     color: #F9FAF8;
     font-weight: bold;
 }
+
+/* Header Styles end here */
+
+/* Hero Styles start here */
+
+.hero {
+    display: flex;
+    background-color: #1F2937;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+    padding: 60px;
+}
+
+.herotext {
+    margin: 20px;
+    max-width: 500px;
+}
+
+.maintext {
+    font-size: 48px;
+    font-weight: bold;
+    color: #F9FAF8;
+    margin: 0;
+}
+
+.secondtext {
+    font-size: 18px;
+    color: #E5E7EB;
+    margin: 0;
+}
+
+.mainbutton {
+    background-color: #3882F6;
+    border-radius: 5px;
+    color: #F9FAF8;
+    padding: 5px 20px;
+    margin: 15px 0px;
+    border: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+img {
+    width: 500px;
+    height: 230px;
+}
+
+/* Hero Styles ends here */
