@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    flex-direction: column;
+    padding: 0px;
+    margin: 0px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    max-height: fit-content;
+    align-items: center;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    font-family: 'Roboto', sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 10px;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.logo {
+    justify-self: center;
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
+}
