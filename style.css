@@ -127,3 +127,33 @@ img {
 }
 
 /* Infosection Styles ends here */
+
+/* Testimonial Styles starts here */
+
+.testimonial {
+    display: flex;
+    background-color: #E5E7EB;
+    font-family: 'Roboto', sans-serif;
+    padding: 100px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.comment {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+    max-width: 800px;
+}
+
+.author {
+    font-size: 25px;
+    font-weight: bold;
+    color: #1F2937;
+    width: 800px;
+    text-align: end;
+}
+
+/* Testimonial Styles ends here */
