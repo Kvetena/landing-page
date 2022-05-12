@@ -194,3 +194,18 @@ img {
 }
 
 /* CTA Styles ends here */
+
+/* Footer Styles starts here */
+
+.footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Footer Styles ends here */
