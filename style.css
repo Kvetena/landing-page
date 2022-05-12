@@ -157,3 +157,40 @@ img {
 }
 
 /* Testimonial Styles ends here */
+
+/* CTA Styles start here */
+
+.cta {
+    background-color: #3882F6;
+    font-family: 'Roboto', sans-serif;
+    color: #F9FAF8;
+    border-radius: 10px;
+    margin: 100px 300px;
+    padding: 30px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+.cta h3 {
+    margin: 0px;
+}
+
+.cta p {
+    margin: 0px;
+}
+
+.ctabutton {
+    background-color: #3882F6;
+    border-radius: 5px;
+    color: #F9FAF8;
+    padding: 5px 20px;
+    margin: 15px 0px;
+    border: none;
+    font-size: 18px;
+    font-weight: bold;
+    border: 1px solid white;
+}
+
+/* CTA Styles ends here */
