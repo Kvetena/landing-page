@@ -80,3 +80,50 @@ img {
 }
 
 /* Hero Styles ends here */
+
+/* Infosection Styles starts here */
+
+.infosection {
+    text-align: center;
+    margin: 30px;
+}
+
+.infosection h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    color: #1F2937;
+    padding: 10px;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin: 25px;
+}
+
+.card{
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    border: 3px solid #3882F6;
+
+}
+.info {
+    max-width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+}
+
+.infotext {
+    font-family: 'Roboto', sans-serif;
+    margin: 10px;
+    font-size: 20px;
+    color: #1F2937;
+}
+
+/* Infosection Styles ends here */
